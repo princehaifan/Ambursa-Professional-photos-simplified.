@@ -1,0 +1,7 @@
+{
+  "name": "Ambursa Camera",
+  "description": "Shoot professional pictures and apply professional filters using an intuitive, Apple-like editing interface. Leverage AI to perfect your shots.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
